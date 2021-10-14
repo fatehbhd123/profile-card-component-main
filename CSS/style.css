@@ -106,7 +106,7 @@ hr{
 section section div p{
     font-size: 14px;
     font-weight: 400;
-    margin:20px 10px;
+    margin:20px 0 0;
     color: #777;
 }
 footer a {
